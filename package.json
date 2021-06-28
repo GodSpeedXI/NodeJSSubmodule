@@ -4,7 +4,7 @@
   "description": "",
   "main": "./dist/simple-ts/index.js",
   "scripts": {
-    "start": "node ./dist/simple-ts/index.js"
+    "start": "node ./dist/simple-ts/src/index.js"
   },
   "author": "",
   "license": "ISC"
