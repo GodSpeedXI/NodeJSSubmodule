@@ -1,0 +1,11 @@
+{
+  "name": "simple-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/simple-ts/index.js",
+  "scripts": {
+    "start": "node ./dist/simple-ts/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
