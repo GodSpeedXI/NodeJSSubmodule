@@ -1,0 +1,3 @@
+[submodule "modules/FirstModule"]
+	path = modules/FirstModule
+	url = C:\\Users\\bawornsitc\\Desktop\\GitTest\\NodeTestSubmodule\\modules\\FirstModule
