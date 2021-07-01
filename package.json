@@ -4,7 +4,8 @@
   "description": "",
   "main": "./dist/simple-ts/index.js",
   "scripts": {
-    "start": "node ./dist/simple-ts/src/index.js"
+    "start": "node ./dist/simple-ts/src/index.js",
+    "prestart": "tsc -b"
   },
   "author": "",
   "license": "ISC"
